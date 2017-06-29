@@ -20,7 +20,7 @@ Notes:
 2. Menu is opened only on the navigation button click.
 3. If items list does not fit the maximum height allowed, it will get a scrollbar.
 4. Categories of items can be changed the next way:
-    1. Click on a link to add items to "Opened"
+    1. Click on a link to add item to "Opened"
     2. Click on a star icon to add item to "Favorites";
     3. Click on a star icon to remove item from "Favorites" (works at a "Favorites" tab only);
     4. Click on a cross icon to remove item from "Opened";
