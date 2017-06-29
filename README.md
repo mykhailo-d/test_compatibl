@@ -1,5 +1,5 @@
 # test_compatibl
-##A test task for Compatibl.
+**A test task for Compatibl.**
 
 Done with: *HTML, SCSS, jQuery*.
 
